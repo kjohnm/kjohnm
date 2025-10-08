@@ -1,5 +1,5 @@
 <h1 align="center">Jonathas Santos</h1>
-<h3 align="left"> Pronomes: Ele/Dele </h1>
+<p align="left"> Pronomes: Ele/Dele </p>
 
 <p align="center">
   Graduado em <strong>Engenharia de Computação</strong> pela Universidade Federal de Sergipe (UFS)
