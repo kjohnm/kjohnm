@@ -12,7 +12,7 @@ Meus principais interesses no momento são: **Inteligência artificial**, **Test
 
 ### Principais Tecnologias e Ferramentas
 
-## Linguagens
+#### Linguagens
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -22,14 +22,14 @@ Meus principais interesses no momento são: **Inteligência artificial**, **Test
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
-## Markup e Styles
+#### Markup e Styles
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-## Frameworks e Bibliotecas
+#### Frameworks e Bibliotecas
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -40,14 +40,14 @@ Meus principais interesses no momento são: **Inteligência artificial**, **Test
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
 
-## Banco de Dados
+#### Banco de Dados
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase_DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
-## Ferramentas
+#### Ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -59,14 +59,14 @@ Meus principais interesses no momento são: **Inteligência artificial**, **Test
 
 ### Experiência
 
-## **HerTech Innovations** — *Desenvolvedor Web & Mobile (Ago/2024 - Atual)*
+#### **HerTech Innovations** — *Desenvolvedor Web & Mobile (Ago/2024 - Atual)*
 - Desenvolvimento e manutenção de aplicações com **React Native**, **Expo** e **Firebase**
 - Publicação e atualização de apps na **Play Store** e **Apple Store**
 - Criação e manutenção de **documentação técnica**
 - Integração com **banco de dados MongoDB** e **serviços externos**
 - Participação ativa em **sprints ágeis** e revisão de código
 
-## **Fanese** — *Estágio em TI (Fev/2018 - Fev/2019)*
+#### **Fanese** — *Estágio em TI (Fev/2018 - Fev/2019)*
 - Suporte técnico e auxílio no desenvolvimento de software  
 - Testes de qualidade e atendimento aos usuários internos
 
