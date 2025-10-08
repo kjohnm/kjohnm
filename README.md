@@ -10,9 +10,7 @@ Sou desenvolvedor com experiência acadêmica e/ou prática de trabalho em **Rea
 Atualmente, trabalho como **Desenvolvedor Mobile e Web**, atuando na **manutenção, refatoração e expansão de aplicativos e páginas em produção**.  
 Meus principais interesses no momento são: **Inteligência artificial**, **Testes**, **Aplicação de Metodologias ágeis**, **boas práticas de código**, **arquitetura de software**, **Engenharia de Software**, **Banco de dados** e **integração com serviços externos** (como plataformas de pagamento e APIs REST).
 
----
-
-### Tecnologias e Ferramentas
+### Principais Tecnologias e Ferramentas
 
 ## Linguagens
 <p align="left">
@@ -24,6 +22,13 @@ Meus principais interesses no momento são: **Inteligência artificial**, **Test
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
 
+## Markup e Styles
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
+
 ## Frameworks e Bibliotecas
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -32,11 +37,8 @@ Meus principais interesses no momento são: **Inteligência artificial**, **Test
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
-
----
 
 ## Banco de Dados
 <p align="left">
@@ -44,8 +46,6 @@ Meus principais interesses no momento são: **Inteligência artificial**, **Test
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase_DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
-
----
 
 ## Ferramentas
 <p align="left">
@@ -56,8 +56,6 @@ Meus principais interesses no momento são: **Inteligência artificial**, **Test
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
-
----
 
 ### Experiência
 
@@ -72,8 +70,6 @@ Meus principais interesses no momento são: **Inteligência artificial**, **Test
 - Suporte técnico e auxílio no desenvolvimento de software  
 - Testes de qualidade e atendimento aos usuários internos
 
----
-
 ### Atualmente estudando
 -  Arquitetura escalável em React / React Native  
 -  Integração com plataformas de pagamento  
@@ -81,13 +77,9 @@ Meus principais interesses no momento são: **Inteligência artificial**, **Test
 -  Boas práticas de clean code e design patterns
 -  Recursos intermediários a complexos do Javascript e Typescript
 
----
-
 ### Soft Skills
  Comunicação  |  Organização  |  Trabalho em equipe  |  Foco em resultados  |  Autonomia  |  Dedicação  |  Criatividade  | 
  Proatividade |  Resolução de problemas  |  Liderança  |  Empatia  
-
----
 
 ### Deseja me contatar ou conectar-se comigo?
 
@@ -96,5 +88,3 @@ Meus principais interesses no momento são: **Inteligência artificial**, **Test
   <a href="https://www.linkedin.com/in/jonathas-ec/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://portfolio-jonathas.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
-
----
