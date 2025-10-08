@@ -84,8 +84,8 @@ Meus principais interesses no momento são: **Inteligência artificial**, **Test
 ---
 
 ### Soft Skills
- Comunicação |  Trabalho em equipe |  Foco em resultados  | Autonomia
- Proatividade |  Resolução de problemas |  Liderança e empatia  
+ Comunicação  |  Organização  |  Trabalho em equipe  |  Foco em resultados  |  Autonomia  |  Dedicação  |  Criatividade  | 
+ Proatividade |  Resolução de problemas  |  Liderança  |  Empatia  
 
 ---
 
