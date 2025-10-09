@@ -1,13 +1,8 @@
 <h1 align="center">Jonathas Santos</h1>
-<p align="left"> Pronomes: Ele/Dele </p>
-
-<p align="center">
-  Graduado em <strong>Engenharia de Computação</strong> pela Universidade Federal de Sergipe (UFS)
-</p>
 
 ### Sobre mim
-Sou desenvolvedor com experiência acadêmica e/ou prática de trabalho em **React**, **React Native**, **Node.js**, **Java**, **Python.js** e **Firebase**, entre diversas outras tecnologias. Criando aplicações onde participo do levantamento de requisitos à publicação nas lojas.  
-Atualmente, trabalho como **Desenvolvedor Mobile e Web**, atuando na **manutenção, refatoração e expansão de aplicativos e páginas em produção**.  
+Me formei em **Engenharia de Computação** pela Universidade Federal de Sergipe **(UFS)**. Sou desenvolvedor com experiência acadêmica e/ou prática de trabalho em **React**, **React Native**, **Node.js**, **Java**, **Python.js** e **Firebase**, entre diversas outras tecnologias. Criando aplicações onde participo do levantamento de requisitos à publicação nas lojas.  
+Atualmente, trabalho como **Desenvolvedor Mobile e Web**, atuando na **manutenção, refatoração e expansão de aplicativos e site em produção**.  
 Meus principais interesses no momento são: **Inteligência artificial**, **Testes**, **Aplicação de Metodologias ágeis**, **boas práticas de código**, **arquitetura de software**, **Engenharia de Software**, **Banco de dados** e **integração com serviços externos** (como plataformas de pagamento e APIs REST).
 
 ### Principais Tecnologias e Ferramentas
