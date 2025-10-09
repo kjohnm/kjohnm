@@ -52,19 +52,6 @@ Meus principais interesses no momento são: **Inteligência artificial**, **Test
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </p>
 
-### Experiência
-
-#### **HerTech Innovations** — *Desenvolvedor Web & Mobile (Ago/2024 - Atual)*
-- Desenvolvimento e manutenção de aplicações com **React Native**, **Expo** e **Firebase**
-- Publicação e atualização de apps na **Play Store** e **Apple Store**
-- Criação e manutenção de **documentação técnica**
-- Integração com **banco de dados MongoDB** e **serviços externos**
-- Participação ativa em **sprints ágeis** e revisão de código
-
-#### **Fanese** — *Estágio em TI (Fev/2018 - Fev/2019)*
-- Suporte técnico e auxílio no desenvolvimento de software  
-- Testes de qualidade e atendimento aos usuários internos
-
 ### Atualmente estudando
 -  Arquitetura escalável em React / React Native  
 -  Integração com plataformas de pagamento  
